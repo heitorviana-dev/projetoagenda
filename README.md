@@ -16,5 +16,17 @@
   npm i
   ```
 
-- 
+- Feito isso abra dois terminais, um para executar o servidor e outro para executar o webpack:
+
+- Servidor:
+
+ ```sh
+  npm start
+  ```
+
+- Webpack:
+
+  ```sh
+  npm run dev
+  ```
   
