@@ -27,7 +27,7 @@
 
 ##  Sobre ##
 
-Bem-vindo à nossa Agenda Digital:grinning:! Este projeto foi criado com o objetivo de testar meus conhecimentos sobre autenticação e sessões, usando tecnologias de criptografia e hash alternado, com o objetivo de garantir a segurança do usuário aos seus contatos, o front-end teve o intuito de facilitar a organização de contatos. Com uma interface intuitiva e fácil de usar, você pode criar, editar e excluir compromissos com apenas alguns cliques.
+Bem-vindo à nossa Agenda Digital :grinning:! Este projeto foi criado com o objetivo de testar meus conhecimentos sobre autenticação e sessões, usando tecnologias de criptografia e hash alternado, com o objetivo de garantir a segurança do usuário aos seus contatos, o front-end teve o intuito de facilitar a organização de contatos. Com uma interface intuitiva e fácil de usar, você pode criar, editar e excluir compromissos com apenas alguns cliques.
 
 ## Tecnologias Utilizadas
 
@@ -58,7 +58,7 @@ Usei uma combinação de tecnologias modernas para garantir que a Agenda Digital
 ### Home Agenda ###
 <img src="./.github/Página inicial.png" alt="Imagem da tela Home agenda" />
 
-## :checkered_flag:Instruções para inicializar o projeto:
+## :checkered_flag: Instruções para inicializar o projeto:
 
 - Após copiar o projeto, execute o seguinte comando no terminal para baixar os módulos node necessários para a execução:
 
