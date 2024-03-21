@@ -58,7 +58,7 @@ Usei uma combinação de tecnologias modernas para garantir que a Agenda Digital
 ### Home Agenda ###
 <img src="./.github/Página inicial.png" alt="Imagem da tela Home agenda" />
 
-## :checkered_flag:  Instruções para inicializar o projeto:
+## :checkered_flag:Instruções para inicializar o projeto:
 
 - Após copiar o projeto, execute o seguinte comando no terminal para baixar os módulos node necessários para a execução:
 
