@@ -3,9 +3,6 @@ require("dotenv").config();
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
-const https = require("https");
-const fs  = require("fs");
-
 
 mongoose.connect(process.env.CONNECTIONSTRING) //Conecta-se a base de dados
     .then(() => {
