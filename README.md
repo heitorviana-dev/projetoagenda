@@ -6,3 +6,4 @@
   - ejs
   - webpack
   - mongoDB
+  - nodemon
